@@ -1,9 +1,5 @@
 # k8s-kubeadm-howto
 
-## This howto was created using a mix of other howtos and after many attemps
-
-https://devopscube.com/setup-kubernetes-cluster-kubeadm/
-
 * * *
 
 ## Enable iptables Bridged Traffic on all the Nodes
