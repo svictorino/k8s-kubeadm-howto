@@ -1,6 +1,5 @@
 # k8s-kubeadm-howto
 
-* * *
 
 ## Enable iptables Bridged Traffic on all the Nodes
 
